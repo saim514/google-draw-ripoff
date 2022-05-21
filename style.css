@@ -1,0 +1,50 @@
+body
+{
+background-color: crimson;
+}
+
+#score
+{
+    font-size: 28px;
+    float: left;
+    margin-left: 20px;
+    color:white ;
+}
+
+#timer
+{
+    font-size:28px;
+    float: right;
+    margin-right: 80px;
+    color: white;
+}
+
+#sketch_to_draw
+{
+    font-size: 30px;
+    color:white;
+}
+
+#confidence
+{
+    font-size: 28px;
+    color: white;
+}
+
+#sketch_name
+{
+    font-size: 28px;
+    color:white;
+}
+
+#show_sketch
+{
+    float:right;
+    margin-right:8px;
+}
+
+h1
+{
+    color:white;
+    font-size:40px;
+}
