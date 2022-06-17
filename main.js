@@ -59,7 +59,7 @@ function check_sketch()
     {
         timer_check = "";
         answer_holder = "";
-        update_canvas();
+        updateCanvas();
     }
 
 }
